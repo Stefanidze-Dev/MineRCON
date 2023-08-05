@@ -30,3 +30,5 @@ Errors are mostly handeled within but some (Mostly NullReference) need to be han
 
 The library can support multiple servers at once, just create a separate instance
 of RconConnection
+
+Get the package [here](https://www.nuget.org/packages/MinerCON/)
