@@ -4,10 +4,10 @@ huge thanks to the creator of it.
 ## Set-Up
 To properly set-up Rcon on your server read [this article](https://wiki.vg/RCON)
 ## Usage
-To initialize it create a new `RconConnection`,
-then
+To create a new `RconConnection`,
+do
 ```
-RconConnection.Login(Adress, Port, Password)
+yourvar = new RconConnection(Adress, Port, Password)
 ```
 Afterwards you will see `rcon theread started on {adress}` in your server console,
 this means you set up everything correctly.
