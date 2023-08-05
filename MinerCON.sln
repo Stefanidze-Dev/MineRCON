@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinerCON", "MinerCON\MinerCON.csproj", "{8BC31C02-A97D-401A-B73C-2B33FE1858BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BC31C02-A97D-401A-B73C-2B33FE1858BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BC31C02-A97D-401A-B73C-2B33FE1858BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BC31C02-A97D-401A-B73C-2B33FE1858BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BC31C02-A97D-401A-B73C-2B33FE1858BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78CA97A4-A50B-4A0F-8C6C-8137F86D47CB}
+	EndGlobalSection
+EndGlobal

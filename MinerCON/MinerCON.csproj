@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Minecraft RCON wrapper</Title>
+    <Authors>Willroberts, Stefanidze</Authors>
+    <Product>Rcon Wrapper</Product>
+    <Copyright>I do not claim ownership of any code in this package, i just wrapped it into a library. Go check out the original author at https://github.com/willroberts/minecraft-client-csharp</Copyright>
+    <Description>A Layer of error-handling over Minecraft Rcon if you do not need nothing more</Description>
+    <PackageProjectUrl>https://github.com/willroberts/minecraft-client-csharp</PackageProjectUrl>
+    <PackageIcon>Craft.png</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageTags>Minecraft, Rcon</PackageTags>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <FileVersion>1.1.0.0</FileVersion>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <Version>1.1.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\Meta\LICENSE.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\..\..\..\Desktop\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\..\..\..\Pictures\Craft.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
