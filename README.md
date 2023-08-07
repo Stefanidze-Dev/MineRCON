@@ -26,7 +26,7 @@ it will close the client.
 ### Important
 Do not try to use Login while the connection is active, make sure you properly closed it.
 
-Errors are mostly handeled within but some (Mostly NullReference) need to be handled is your application.
+Errors are mostly handeled within but some (Mostly NullReference) need to be handled in your application.
 
 The library can support multiple servers at once, just create a separate instance
 of RconConnection
